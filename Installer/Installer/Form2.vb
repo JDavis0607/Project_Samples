@@ -1,6 +1,6 @@
-﻿// © 2025 Joel Davis. All rights reserved.
-// No part of this code may be used, copied, distributed,
-// or modified in any form without prior written permission.
+' © 2025 Joel Davis. All rights reserved.
+' No part of this code may be used, copied, distributed,
+' or modified in any form without prior written permission.
 
 Imports System.IO
 Imports System.Threading
@@ -196,4 +196,5 @@ Public Class Form2
             End
         End If
     End Sub
+
 End Class
