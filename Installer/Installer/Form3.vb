@@ -1,6 +1,6 @@
-﻿// © 2025 Joel Davis. All rights reserved.
-// No part of this code may be used, copied, distributed,
-// or modified in any form without prior written permission.
+' © 2025 Joel Davis. All rights reserved.
+' No part of this code may be used, copied, distributed,
+' or modified in any form without prior written permission.
 
 Public Class Form3
     Public ProgName As String = "MCS Alumni Status"
@@ -42,4 +42,5 @@ Public Class Form3
         Form2.Show()
         Form2.Timer.Start()
     End Sub
+
 End Class
