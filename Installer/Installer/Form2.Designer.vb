@@ -1,4 +1,8 @@
-﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
+' © 2025 Joel Davis. All rights reserved.
+' No part of this code may be used, copied, distributed,
+' or modified in any form without prior written permission.
+
+<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
 Partial Class Form2
     Inherits System.Windows.Forms.Form
 
@@ -149,3 +153,4 @@ Partial Class Form2
     Friend WithEvents GroupBox1 As System.Windows.Forms.GroupBox
     Private WithEvents ProgressBar As System.Windows.Forms.ProgressBar
 End Class
+
